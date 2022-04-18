@@ -9,17 +9,23 @@ order: 3
 
 ### PhD supervision, currently
 
+Danielle Naegeli, University of Tilburg (on Connie de Vos's ELISA grant)
+
+### PhD supervision, completed
+
+[Yasamin Motamedi](https://ymotamedi.github.io) (co-supervisor, University of Edinburgh)
+
+[Fiona Kirton](https://fkirton.github.io) (co-supervisor, University of Edinburgh)
+
 [Fausto Carcassi](https://thelogicalgrammar.github.io) (co-supervisor, University of Edinburgh) 
 
 [Asha Stewart](https://www.researchgate.net/profile/Asha_Sato) (co-supervisor, University of Edinburgh)
 
-[Fiona Kirton](https://fkirton.github.io) (co-supervisor, University of Edinburgh)
 
-### PhD supervision, completed
-
-2013–2017 [Yasamin Motamedi](https://ymotamedi.github.io) (co-supervisor, University of Edinburgh)
 
 ### Teaching and dissertation supervision
+
+My current teaching is in the [Cognition, Language and Communication BSc programme](https://www.uva.nl/programmas/bachelors/cognition-language-and-communication/cognition-language-and-communication.html), the BA [Linguistics](https://www.uva.nl/en/programmes/bachelors/linguistics/linguistics.html), and the [Master of Logic](https://msclogic.illc.uva.nl/). I supervise MSc/MA theses and BSc/BA theses in various programmes.   
 
 2014--2017 Dissertation supervisor. 7 MSc Evolution of Language and Cognition, University of Edinburgh; 1 MSc Cognitive Science, University of Amsterdam; 1 MA Linguistics, Utrecht University.
 
