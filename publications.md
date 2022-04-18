@@ -6,9 +6,15 @@ order: 2
 ---
 ## Journal articles
 
-Culbertson, J., Schouwstra, M., Kirby, S. (in press). From the world to word order: deriving biases in noun phrase order from statistical properties of the world. *Language.* Preprint available [here](https://psyarxiv.com/v7be4/). 
+Schouwstra, M., Naegeli, D., Kirby, S. (in press). Investigating word order emergence: constraints from cognition and communication. *Frontiers in Psychology* 
 
-Sato, A., Schouwstra, M. Flaherty, M., Kirby, S. (2020). Iconicity in artificial sign language learning. *Language and Cognition*. DOI: 10.1017/langcog.2019.37
+Kirton, F., Kirby, S., Smith, K., Culbertson, J., & Schouwstra, M. (2021). Constituent order in silent gesture reflects the perspective of the producer. Journal of Language Evolution, 6(1), 54-76.
+
+Motamedi, Y., Smith, K., Schouwstra, M., Culbertson, J., & Kirby, S. (2021). The emergence of systematic argument distinctions in artificial sign languages. Journal of Language Evolution, 6(2), 77-98
+
+Culbertson, J., Schouwstra, M., & Kirby, S. (2020). From the world to word order: deriving biases in noun phrase order from statistical properties of the world. *Language*, 96(3), 696-717.
+
+Sato, A., Schouwstra, M. Flaherty, M., Kirby, S. (2020). Do all aspect of learning benefit from iconicity? Evidence from motion capture. *Language and Cognition*, 12(1). DOI: 10.1017/langcog.2019.37
 
 Schouwstra, M., de Swart, H., and Thompson, B. (2019). Interpreting Silent Gesture: cognitive biases and rational inference in emerging language systems. *Cognitive Science* 43(7). DOI: 10.1111/cogs.12732
 
@@ -29,20 +35,12 @@ Schouwstra, M. (2012). *Semantic structures, communicative strategies and the em
 A.D.M. Smith, M. Schouwstra, B. de Boer, K. Smith (Eds.) (2010).  *The Evolution of Language. Proceedings of the 8th international conference* (EvoLang8). World Scientific.
 
 
-## Upcoming
-
-
-Kirton, F., Schouwstra, M., Culbertson, J., Smith, K., & Kirby, S. Animacy and Word Order in Artificial Language Learning. *Cognitive Science*.
-
-Marieke Schouwstra, Kenny Smith, Simon Kirby. The emergence of word order conventions: improvisation, interaction and transmission (in preparation).
-
-Molly Flaherty, Marieke Schouwstra, Susan Goldin-Meadow. Word order: naturalness and conventionalization in Nicaraguan Sign Language (in preparation).
-
-Marieke Schouwstra, Katie Mudd, Marcus Perlman, Simon Kirby. Word order biases are not modality specific: evidence from improvised vocalisation (in preparation).
-
-Motamedi, Y., Smith, K., Schouwstra, M., Culbertson, J., Kirby, S. The emergence of spatial modulation in artificial sign languages. PsyArXiv, 17. DOI: 10.31234/osf.io/p6zy4 (in preparation)
 
 ## Articles in collections, reviews, proceedings papers
+
+Motamedi, Y., Wolters, L., Naegeli, D., Schouwstra, M., & Kirby, S. (2021). Regularisation, Systematicity and Naturalness in a Silent Gesture Learning Task. In 43rd Annual Meeting of the Cognitive Science Society (CogSci 2021): Comparative Cognition Animal Minds : Vienna, Austria, 26-29 July 2021 (Vol. 3, pp. 1451-1457). (Proceedings of the Annual Meeting of the Cognitive Science Society; Vol. 43). Cognitive Science Society.
+
+Royka, A., Schouwstra, M., Kirby, S., & Jara-Ettinger, J. (2021). I Know You Know I’m Signaling: Novel gestures are designed to guide observers’ inferences about communicative goals. In 43rd Annual Meeting of the Cognitive Science Society (CogSci 2021): Comparative Cognition Animal Minds : Vienna, Austria, 26-29 July 2021 (Vol. 2, pp. 1009). (Proceedings of the Annual Meeting of the Cognitive Science Society; Vol. 43). Cognitive Science Society.
 
 Carcassi, F., Schouwstra, M. & Kirby, S. (2020). The Advantage of Extreme Meanings in Cultural Evolution. In Ravignani, A., Barbieri, C., Martins, M., Flaherty, M., Jadoul, Y., Lattenkamp, E., Little, H., Mudd, K. & Verhoef, T. (Eds.): The Evolution of Language: Proceedings of the 13th International Conference (EvoLang13). doi:10.17617/2.3190925.
 
