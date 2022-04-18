@@ -31,13 +31,17 @@ Humans use complex expressions to convey complex meanings, a trait that is uniqu
 
 ## Starting froms scratch: improvisation 
 
-One of the methodologies I use are laboratory experiments in which adult participants improvise to convey information. For example, in **silent gesture** experiments, participants describe events using only their hands and no speech. See this paper in [Cognition](http://www.sciencedirect.com/science/article/pii/S0010027714000432), and this one in [Cognitive Science](http://onlinelibrary.wiley.com/doi/10.1111/cogs.12441/full). [Another paper in Cognitive Science](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12732?casa_token=vD9l93ny4d0AAAAA%3A_Pi5_tQ1ZWxppY2eBsZGUt3-Q4Am9XQrDPgYmO-RIOGxiIqXBYLeQT7CnMKA3N3mka83ZWulGDrTIA) combines silent gesture with a computational model, focusing on fundamental differences between interpretation and production in emerging language systems.  
+One of the methodologies I use are laboratory experiments in which adult participants improvise to convey information. For example, in **silent gesture** experiments, participants describe events using only their hands and no speech. See this paper in [Cognition](http://www.sciencedirect.com/science/article/pii/S0010027714000432) and this one in [Frontiers of Psychology](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.805144/abstract). [This paper in Cognitive Science](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12732?casa_token=vD9l93ny4d0AAAAA%3A_Pi5_tQ1ZWxppY2eBsZGUt3-Q4Am9XQrDPgYmO-RIOGxiIqXBYLeQT7CnMKA3N3mka83ZWulGDrTIA) combines silent gesture with a computational model, focusing on fundamental differences between interpretation and production in emerging language systems.  
 
 ## Evolving a communication system in the lab
 
-I am interested in how the preferences that surface in *improvisation* change under the influence of cultural evolutionary mechanisms, like *communicative interaction* and *iterated learning*. See this [Evolang paper](http://www.research.ed.ac.uk/portal/files/24545060/SCHOUWSTRA_etal_2016_ELPIC_FROM_NATURAL_ORDER_TO_CONVENTION.pdf) and [this paper in Cognition](https://www.sciencedirect.com/science/article/pii/S0010027719301234) by my phd student [Yasamin Motamedi](https://ymotamedi.github.io/).
+I am interested in how the preferences that surface in *improvisation* change under the influence of cultural evolutionary mechanisms, like *communicative interaction* and *iterated learning*. See [this paper under review](https://psyarxiv.com/7ed89/) and [this paper in Cognition](https://www.sciencedirect.com/science/article/pii/S0010027719301234) by [Dr Yasamin Motamedi](https://ymotamedi.github.io/).
+
+## Comparing lab studies with data from real languages
+
+How do the lingusitic structures that people improvise in the lab compare to the structures we see in the languages around us? See this paper in [Cognitive Science](http://onlinelibrary.wiley.com/doi/10.1111/cogs.12441/full), in which silent gesture is compared to early stages of L2 acquisition, and [this paper](https://www.researchgate.net/profile/Susan-Goldin-Meadow/publication/324480785_Do_we_see_word_order_patterns_from_silent_gesture_studies_in_a_new_natural_language/links/5ad6087d458515c60f552cbe/Do-we-see-word-order-patterns-from-silent-gesture-studies-in-a-new-natural-language.pdf)  in which we compare silent gesture lab results to word order variation in Nicaraguan Sign Language.
 
 ## We grow languages 
 
-See [www.wegrowlanguages.com](http://wegrowlanguages.com) for news and background on our current [ESRC grant](https://gtr.ukri.org/person/644282F1-3016-4A1F-A191-2EDB3870C391).
+See [www.wegrowlanguages.com](http://wegrowlanguages.com) for news and background on our recent [ESRC grant](https://gtr.ukri.org/person/644282F1-3016-4A1F-A191-2EDB3870C391).
 
