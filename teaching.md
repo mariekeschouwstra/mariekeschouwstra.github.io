@@ -27,6 +27,8 @@ Danielle Naegeli, University of Tilburg (on Connie de Vos's ELISA grant)
 
 My current teaching is in the [Cognition, Language and Communication BSc programme](https://www.uva.nl/programmas/bachelors/cognition-language-and-communication/cognition-language-and-communication.html), the BA [Linguistics](https://www.uva.nl/en/programmes/bachelors/linguistics/linguistics.html), and the [Master of Logic](https://msclogic.illc.uva.nl/). I supervise MSc/MA theses and BSc/BA theses in various programmes.   
 
+Previous teaching experience:
+
 2014--2017 Dissertation supervisor. 7 MSc Evolution of Language and Cognition, University of Edinburgh; 1 MSc Cognitive Science, University of Amsterdam; 1 MA Linguistics, Utrecht University.
 
 2013–2017 Lecturer for Current Issues in Language Evolution; guest lecturer for *Origins and Evolution of Language*. Linguistics and English Language, University of Edinburgh.
