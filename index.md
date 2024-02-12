@@ -43,5 +43,5 @@ How do the lingusitic structures that people improvise in the lab compare to the
 
 ## We grow languages 
 
-See [www.wegrowlanguages.com](http://wegrowlanguages.com) for news and background on our recent [ESRC grant](https://gtr.ukri.org/person/644282F1-3016-4A1F-A191-2EDB3870C391).
+See [www.wegrowlanguages.com](http://wegrowlanguages.com) for news and background on our recently completed [ESRC grant](https://gtr.ukri.org/person/644282F1-3016-4A1F-A191-2EDB3870C391).
 
