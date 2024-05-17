@@ -38,7 +38,8 @@ One of the methodologies I use are laboratory experiments in which adult partici
 
 ## Evolving a communication system in the lab
 
-I am interested in how the preferences that surface in *improvisation* change under the influence of cultural evolutionary mechanisms, like *communicative interaction* and *iterated learning*. See [this paper under review](https://psyarxiv.com/7ed89/) and [this paper in Cognition](https://www.sciencedirect.com/science/article/pii/S0010027719301234) (with [Dr Yasamin Motamedi](https://ymotamedi.github.io/)).
+I am interested in how the preferences that surface in *improvisation* change under the influence of cultural evolutionary mechanisms, like *communicative interaction* and *iterated learning*. See these two papers in Cognition: [From improvisation to learning (2022)](https://www.sciencedirect.com/science/article/pii/S0010027722001949) and [Evolving artificial sign languages in the lab (2019)](https://doi.org/10.1016/j.cognition.2019.05.001). 
+
 
 ## Comparing lab studies with data from real languages
 
