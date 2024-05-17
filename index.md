@@ -9,16 +9,13 @@ order: 1
 ---
 
 
-Marieke Schouwstra
-
-ILLC
-
-University of Amsterdam
+Marieke Schouwstra, ILLC, University of Amsterdam
 
 ## PhD position (fully paid)
 
 Interested in linguistics and cognitive science? Keen to combine experiments and distributed semantic modeling? Looking for a PhD position? Check out [this project](https://vacatures.uva.nl/UvA/job/PhD-Position-in-Modelling-Word-Order-and-Cognitive-Constraints/794873002/) I'll be supervising together with [Jelke Bloem](https://www.uva.nl/profiel/b/l/j.bloem/j.bloem.html). Deadline is 31st May 2024; starting date ~September. 
 
+## My research
 
 I am Assistant Professor in cognitive science and artificial intelligence at the Institute for Logic, Language and Computation. 
 
