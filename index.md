@@ -15,6 +15,11 @@ ILLC
 
 University of Amsterdam
 
+## PhD position (fully paid)
+
+Interested in linguistics and cognitive science? Keen to combine experiments and distributed semantic modeling? Looking for a PhD position? Check out [this project](https://vacatures.uva.nl/UvA/job/PhD-Position-in-Modelling-Word-Order-and-Cognitive-Constraints/794873002/) I'll be supervising together with [Jelke Bloem](https://www.uva.nl/profiel/b/l/j.bloem/j.bloem.html). Deadline is 31st May 2024; starting date ~September. 
+
+
 I am Assistant Professor in cognitive science and artificial intelligence at the Institute for Logic, Language and Computation. 
 
 My research focuses on how individual and cultural processes interact to give us structured languages that allow us to share our thoughts. I study this by observing what happens when languages are created anew, in laboratory experiments in which participants communicate in novel ways, and I combine this experimental approach with computational models and data from existing languages. 
@@ -23,6 +28,7 @@ I teach in the interdisciplinary program Cognition, Language and Communication, 
 
 
 <img src="images/marieke.jpg" alt="marieke" height="176" width="217" />
+
 
 
 ## Origins of complex meaning
