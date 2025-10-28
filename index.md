@@ -23,9 +23,9 @@ Taking an evolutionary perspective can help us better understand human language.
 - **Computational simulations** help explore the dynamics between individual language users and the group they belong to.
 
 
-<figure align="right">
-<img src="images/marieke2025.jpg" alt="marieke" height="130" style="padding: 10px;"></img>
-<figcaption>Photo by Studium Generale Utrecht</figcaption>
+<figure>
+<img src="images/marieke2025.jpg" alt="marieke" height="130"  align="right" style="padding: 10px;" />
+<figcaption class="figure-caption text-center">Photo by Studium Generale Utrecht</figcaption>
 </figure>
 
 
