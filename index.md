@@ -9,41 +9,26 @@ order: 1
 ---
 
 
-Marieke Schouwstra, ILLC, University of Amsterdam
+## Marieke Schouwstra, 
+Associate professor at ILLC, University of Amsterdam
+
+**Language is everywhere**. We use it every day to describe what is on our minds. We are, in a sense, all language experts. At the same time, important questions about how language works, and why, have remained unanswered.
+
+**Language is flexible and resilient**. People can use language in spoken, written, or signed forms. When there is a group of people together but no language that they share, they will create one. 
+
+Taking an evolutionary perspective can help us better understand human language. Using rich data from different sources and different modalities, I study where language rules come from:
+
+- **Silent gesture experiments** simulate the emergence of new linguistic systems in the lab.
+- **Analysis of language data** shows us the rich variety of ways in which people convey information. 
+- **Computational simulations** help explore the dynamics between individual language users and the group they belong to.
+
+I teach courses in the Cognition Language and Communication program, as well as the Psychobiology course Evolution of Language and Music. And I supervise student projects in many different programmes. Interested? Get in touch (see email address below)! Not sure yet? Read more about my research. 
 
 
-## My research
-
-I am Associate Professor in cognitive science and artificial intelligence at the Institute for Logic, Language and Computation. 
-
-Humans use complex expressions to convey complex meanings, a trait that is unique to our species. I am interested in how complex meaning is best characterised, and how it came about. I study this by observing what happens when languages are created anew, in laboratory experiments in which participants communicate in novel ways, and I combine this experimental approach with computational models and data from existing languages. 
-
-I teach in the interdisciplinary program Cognition, Language and Communication, as well as in Linguistics and Logic. 
-
-
-
-<img src="images/marieke.jpg" alt="marieke" height="176" width="217" />
+<img src="images/marieke2025.jpg" alt="marieke" height="176" />
  
-
-## Starting froms scratch: improvisation 
-
-One of the methodologies I use are laboratory experiments in which adult participants improvise to convey information. For example, in **silent gesture** experiments, participants describe events using only their hands and no speech. See this paper in [Cognition](http://www.sciencedirect.com/science/article/pii/S0010027714000432) and this one in [Frontiers of Psychology](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.805144/abstract). [This paper in Cognitive Science](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12732?casa_token=vD9l93ny4d0AAAAA%3A_Pi5_tQ1ZWxppY2eBsZGUt3-Q4Am9XQrDPgYmO-RIOGxiIqXBYLeQT7CnMKA3N3mka83ZWulGDrTIA) combines silent gesture with a computational model, focusing on fundamental differences between interpretation and production in emerging language systems.  
-
-## Evolving communication systems in the lab
-
-I am interested in how the preferences that surface in *improvisation* change under the influence of cultural evolutionary mechanisms, like *communicative interaction* and *iterated learning*. See these two papers in Cognition: [From improvisation to learning (2022)](https://www.sciencedirect.com/science/article/pii/S0010027722001949) and [Evolving artificial sign languages in the lab (2019)](https://doi.org/10.1016/j.cognition.2019.05.001). 
-
-
-## Comparing lab studies with data from real languages
-
-How do the lingusitic structures that people improvise in the lab compare to the structures we see in the languages around us? See this paper in [Cognitive Science](http://onlinelibrary.wiley.com/doi/10.1111/cogs.12441/full), in which silent gesture is compared to early stages of L2 acquisition, and [this paper](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12751) with Molly Flaherty, in which we compare silent gesture lab results to word order variation in Nicaraguan Sign Language.
 
 ## Language Evolution and Learning
 
 With Fausto Carcassi, Raquel Alhama, and Katrin Schulz, I run the Language Evolution and Learning talk series. [Check our schedule or sign up for our email list here!](https://sites.google.com/view/lela-amsterdam)
-
-
-## We grow languages 
-
-See [www.wegrowlanguages.com](http://wegrowlanguages.com) for information on our recently completed [ESRC grant](https://gtr.ukri.org/person/644282F1-3016-4A1F-A191-2EDB3870C391).
 
