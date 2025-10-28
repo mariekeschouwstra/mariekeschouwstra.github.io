@@ -24,8 +24,8 @@ Taking an evolutionary perspective can help us better understand human language.
 
 
 <figure>
-<img src="images/marieke2025.jpg" alt="marieke" height="130" align="right" style="padding: 10px;" />
-<figcaption text-align="right">Photo by Studium Generale Utrecht</figcaption>
+<img src="images/marieke2025.jpg" alt="marieke" height="130" align="right" style="padding: 10px;"></img>
+<figcaption>Photo by Studium Generale Utrecht</figcaption>
 </figure>
 
 
