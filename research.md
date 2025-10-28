@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Research
 layout: page
 permalink: /research/
 order: 2
