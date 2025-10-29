@@ -10,7 +10,7 @@ Taking an evolutionary perspective can help us better understand human language.
 
 ## Silent gesture: studying the emergence of linguistic structure in the lab
 
-Using silent gesture, a method in which lab participants convey information using only gesture and no speech, we have created circumstances in which language emergence can be simulated in the lab. [2025](https://osf.io/preprints/psyarxiv/63dp5_v1)
+Using silent gesture, a method in which lab participants convey information using only gesture and no speech, we have created circumstances in which language emergence can be simulated in the lab. [[2025](https://osf.io/preprints/psyarxiv/63dp5_v1)]
 
 We have found that people with different first languages share important word order preferences. By focusing how these preferences shift under the influence of semantic properties, repeated interaction, and learning, we teased apart some of the forces that shape language. 
 
