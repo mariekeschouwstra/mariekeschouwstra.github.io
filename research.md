@@ -1,11 +1,10 @@
 ---
-title: Research
+title: Let's evolve languages!
 layout: page
 permalink: /research/
-order: 2
+order: 4
 ---
 
-# Let’s evolve languages
 
 Taking an evolutionary perspective can help us better understand human language. Using rich data from different sources and different modalities, I study where language rules come from.
 
