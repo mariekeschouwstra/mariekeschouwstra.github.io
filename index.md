@@ -9,8 +9,9 @@ order: 1
 ---
 
 
-## Marieke Schouwstra, 
-Associate professor at ILLC, University of Amsterdam
+## Marieke Schouwstra 
+Associate professor of Cognitive Science and AI <br />
+Institue for [Logic, Language and Computation](https://www.illc.uva.nl/), University of Amsterdam
 
 **Language is everywhere**. We use it every day to describe what is on our minds. We are, in a sense, all language experts. At the same time, important questions about how language works, and why, have remained unanswered.
 
@@ -29,7 +30,7 @@ Taking an evolutionary perspective can help us better understand human language.
 </figure>
 
 
-I teach courses in the Cognition Language and Communication program, as well as the Psychobiology course Evolution of Language and Music. And I supervise student projects in many different programmes. Interested? Get in touch (see email address below)! Not sure yet? Read more about my research. 
+I teach courses in the Cognition Language and Communication program, as well as the Psychobiology course Evolution of Language and Music. And I supervise student projects in many different programmes. Interested? Get in touch (see email address below)! Want to know more? Read  about my [research](https://mariekeschouwstra.github.io/research/ "Let's evolve languages!"). 
 
 ## Language Evolution and Learning
 
