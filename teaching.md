@@ -11,6 +11,10 @@ order: 2
 
 Danielle Naegeli, University of Tilburg (on Connie de Vos's ELISA grant)
 
+Maria Tepei, UvA/ILLC (with Jelke Bloem and Eva van Lier)
+
+Rosa Zaaijer, UvA/ACLC (with Monique Flecken and Caitlin Meyer)
+
 ### PhD supervision, completed
 
 [Yasamin Motamedi](https://ymotamedi.github.io) (co-supervisor, University of Edinburgh)
