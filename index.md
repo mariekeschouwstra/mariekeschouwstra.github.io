@@ -30,7 +30,7 @@ Taking an evolutionary perspective can help us better understand human language.
 </figure>
 
 
-I teach courses in the Cognition Language and Communication program, as well as the Psychobiology course Evolution of Language and Music. And I supervise student projects in many different programmes. Interested? Get in touch (see email address below)! Want to know more? Read  about my [research](https://mariekeschouwstra.github.io/research/ "Let's evolve languages!"). 
+I teach courses in the Cognition Language and Communication program, as well as the Psychobiology course [Evolution of Language and Music](https://evolutionoflanguageandmusic.wordpress.com/). And I supervise student projects in many different programmes. Interested? Get in touch (see email address below)! Want to know more? Read all about my [research](https://mariekeschouwstra.github.io/research/ "Let's evolve languages!"). 
 
 ## Language Evolution and Learning
 
